@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "Vodafone-34656602";
-const char* password = "juventus";
+const char* ssid     = "wifiName";
+const char* password = "wifiPassword";
 String host="demiledge.com";
 String page="/espTutorial.php";
 String myIP;
